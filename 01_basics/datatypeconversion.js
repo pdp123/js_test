@@ -21,23 +21,36 @@
 // console.log(booleanIsLoggedIn);
 
 
-let num = 33
+// let num = 33
 
-let stringNumber = String(num)
-// console.log(typeof(stringNumber));
+// let stringNumber = String(num)
+// // console.log(typeof(stringNumber));
 
-//* Operations
-let value = 3
-let negValue = -value
-// console.log(true+1+false);
+// //* Operations
+// let value = 3
+// let negValue = -value
+// // console.log(true+1+false);
 
-let num1,num2,num3 
+// let num1,num2,num3 
 
-num1 = num2 = num3 = 2+2
+// num1 = num2 = num3 = 2+2
 
-console.log("num1"+" "+num2);
+// console.log("num1"+" "+num2);
+
+// const bigNumber = 7894515555784n
 
 
+const heros = ["hero1","hero2","hero3"]
+let myObj = {
+    names:"Hitesh",
+    age:23
+}
+
+const myFuntion = function(){
+    console.log("This is function");
+    
+}
+console.log(typeof myFuntion());
 
 
 
