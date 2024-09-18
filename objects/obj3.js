@@ -6,12 +6,12 @@ const course = {
     courseInstructors:"Hitsh"
 }
 
-const {courseInstructors:instructor} = course
+// const {courseInstructors:instructor} = course
 
-console.log(instructor);
+// console.log(instructor);
 
-const navbar = ({}) => {
+// const navbar = ({}) => {
 
-}
+// }
 
-navbar(compnayName:"Hitesh")
+// navbar(compnayName:"Hitesh")
